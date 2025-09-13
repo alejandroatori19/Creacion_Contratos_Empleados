@@ -1,0 +1,6 @@
+[submodule "Dispatcher_0100_Creacion_Contratos_Empleados"]
+	path = Dispatcher_0100_Creacion_Contratos_Empleados
+	url = https://github.com/alejandroatori19/Dispatcher_0100_Creacion_Contratos_Empleados.git
+[submodule "Process_0200_Creacion_Contratos_Empleados"]
+	path = Process_0200_Creacion_Contratos_Empleados
+	url = https://github.com/alejandroatori19/Process_0200_Creacion_Contratos_Empleados.git
